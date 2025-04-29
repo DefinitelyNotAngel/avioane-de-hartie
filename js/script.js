@@ -106,16 +106,24 @@ function initializePlaylist() {
     // You can use relative paths (if files are in your project) or absolute URLs
 
     // Example with relative paths (files in your project)
-    addSongToPlaylist('./muzica/1 + 2 overture.all that jazz.mp3', 'overture/all that jazz');
-    addSongToPlaylist('./muzica/3 funny honey.mp3', 'funny honey');
-    addSongToPlaylist('./muzica/4 cell block tango.mp3', 'cell block tango');
-    addSongToPlaylist('./muzica/5 when you\'re good to mama.mp3', 'when you\'re good to mama');
-    addSongToPlaylist('./muzica/7 all i care about is love.mp3', 'all i care about is love');
-    addSongToPlaylist('./muzica/10 they both reached for the gun.mp3', 'they both reached for the gun');
-    addSongToPlaylist('./muzica/11 roxie.mp3', 'roxie');
-    addSongToPlaylist('./muzica/12 I cant do it alone.mp3', 'I cant do it alone');
-    addSongToPlaylist('./muzica/13 mr cellophane.mp3', 'mr cellophane');
-    addSongToPlaylist('./muzica/14 razzle dazzle.mp3', 'razzle dazzle');
+    addSongToPlaylist('./muzica/1 paper aeroplane.mp3', 'paper aeroplane');
+    addSongToPlaylist('./muzica/2 echoes.mp3', 'Echoes 1');
+    addSongToPlaylist('./muzica/3 echoes.mp3', 'Echoes 2');
+    addSongToPlaylist('./muzica/4 hey you.mp3', 'hey you 1');
+    addSongToPlaylist('./muzica/5 anxiety.mp3', 'anxiety');
+    addSongToPlaylist('./muzica/6 hey you.mp3', 'hey you 2');
+    addSongToPlaylist('./muzica/7 sheep', 'sheep 1');
+    addSongToPlaylist('./muzica/8 muzica de club.mp3', 'muzica de club');
+    addSongToPlaylist('./muzica/9 goodbye blue sky.mp3', 'goodbye blue sky');
+    addSongToPlaylist('./muzica/10 sheep.mp3', 'sheep 2');
+    addSongToPlaylist('./muzica/11 hey you.mp3', 'hey you 3');
+    addSongToPlaylist('./muzica/12 sheep.mp3', 'sheep 3');
+    addSongToPlaylist('./muzica/13 alain delon comme au cinema.mp3', 'comme au cinema');
+    addSongToPlaylist('./muzica/14 coming back to life pink floyd.mp3', 'coming back to life');
+    addSongToPlaylist('./muzica/15 hey you.mp3', 'hey you 4');
+    addSongToPlaylist('./muzica/16 keep talking pink floyd.mp3', 'keep talking');
+    addSongToPlaylist('./muzica/17 time pink floyd.mp3', 'time pink floyd');
+    addSongToPlaylist('./muzica/18 delicate ssound of thunder.mp3', 'delicate sound of thunder');
 
     // Example with absolute paths (files on your computer)
     // Note: These will only work if running the app locally
