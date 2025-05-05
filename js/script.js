@@ -113,17 +113,18 @@ function initializePlaylist() {
     addSongToPlaylist('./muzica/5 anxiety.mp3', 'anxiety');
     addSongToPlaylist('./muzica/6 hey you.mp3', 'hey you 2');
     addSongToPlaylist('./muzica/7 sheep', 'sheep 1');
-    addSongToPlaylist('./muzica/8 muzica de club.mp3', 'muzica de club');
+    addSongToPlaylist('./muzica/8 muzica club.mp3', 'muzica de club');
     addSongToPlaylist('./muzica/9 goodbye blue sky.mp3', 'goodbye blue sky');
     addSongToPlaylist('./muzica/10 sheep.mp3', 'sheep 2');
     addSongToPlaylist('./muzica/11 hey you.mp3', 'hey you 3');
     addSongToPlaylist('./muzica/12 sheep.mp3', 'sheep 3');
     addSongToPlaylist('./muzica/13 alain delon comme au cinema.mp3', 'comme au cinema');
-    addSongToPlaylist('./muzica/14 coming back to life pink floyd.mp3', 'coming back to life');
-    addSongToPlaylist('./muzica/15 hey you.mp3', 'hey you 4');
-    addSongToPlaylist('./muzica/16 keep talking pink floyd.mp3', 'keep talking');
-    addSongToPlaylist('./muzica/17 time pink floyd.mp3', 'time pink floyd');
-    addSongToPlaylist('./muzica/18 delicate ssound of thunder.mp3', 'delicate sound of thunder');
+    addSongToPlaylist('./muzica/14 aplauze alain delon comme au cinema.mp3', 'aplauze');
+    addSongToPlaylist('./muzica/15 pink floyd-coming back to life.mp3', 'coming back to life');
+    addSongToPlaylist('./muzica/16 hey you.mp3', 'hey you 4');
+    addSongToPlaylist('./muzica/17 keep talking-pink floyd.mp3', 'keep talking');
+    addSongToPlaylist('./muzica/18 time pink floyd.mp3', 'time pink floyd');
+    addSongToPlaylist('./muzica/19 delicate ssound of thunder.mp3', 'delicate sound of thunder');
 
     // Example with absolute paths (files on your computer)
     // Note: These will only work if running the app locally
