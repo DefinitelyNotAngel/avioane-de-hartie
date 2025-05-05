@@ -42,7 +42,7 @@ function initializeDocument() {
     // loadDocumentFromPath('./documents/sample.txt', 'txt');
 
     // Example with a docx file (relative path)
-    loadDocumentFromPath('./text/CHICAGO.docx', 'CHICAGO');
+    // loadDocumentFromPath();
 
     // Example with absolute paths (files on your computer)
     // Note: These will only work if running the app locally
@@ -112,7 +112,7 @@ function initializePlaylist() {
     addSongToPlaylist('./muzica/4 hey you.mp3', 'hey you 1');
     addSongToPlaylist('./muzica/5 anxiety.mp3', 'anxiety');
     addSongToPlaylist('./muzica/6 hey you.mp3', 'hey you 2');
-    addSongToPlaylist('./muzica/7 sheep', 'sheep 1');
+    addSongToPlaylist('./muzica/7 sheep.mp3', 'sheep 1');
     addSongToPlaylist('./muzica/8 muzica club.mp3', 'muzica de club');
     addSongToPlaylist('./muzica/9 goodbye blue sky.mp3', 'goodbye blue sky');
     addSongToPlaylist('./muzica/10 sheep.mp3', 'sheep 2');
