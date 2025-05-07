@@ -120,9 +120,9 @@ function initializePlaylist() {
     addSongToPlaylist('./muzica/12 sheep.mp3', 'sheep 3');
     addSongToPlaylist('./muzica/13 alain delon comme au cinema.mp3', 'comme au cinema');
     addSongToPlaylist('./muzica/14 aplauze alain delon comme au cinema.mp3', 'aplauze');
-    addSongToPlaylist('./muzica/15 pink floyd-coming back to life.mp3', 'coming back to life');
+    addSongToPlaylist('./muzica/15 pink floyd - coming back to life.mp3', 'coming back to life');
     addSongToPlaylist('./muzica/16 hey you.mp3', 'hey you 4');
-    addSongToPlaylist('./muzica/17 keep talking-pink floyd.mp3', 'keep talking');
+    addSongToPlaylist('./muzica/17 keep talking - pink floyd.mp3', 'keep talking');
     addSongToPlaylist('./muzica/18 time pink floyd.mp3', 'time pink floyd');
     addSongToPlaylist('./muzica/19 delicate ssound of thunder.mp3', 'delicate sound of thunder');
 
